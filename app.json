@@ -1,0 +1,13 @@
+{
+  "name": "mifosx",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
